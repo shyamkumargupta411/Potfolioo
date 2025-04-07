@@ -18,6 +18,15 @@ const Experience: React.FC = () => {
         ' Boosted data-driven decision-making by developing scalable dashboards in Power BI and optimizing metrics visualization by 25%. Utilized Python, SQL, and Excel for insights generation, achieving a 30% improvement in KPI analysis. Designed and executed automated data processing workflows, increasing productivity by 40%. ',
       active: false,
     },
+    {
+      period: 'July 2024-Aug 2024',
+      company: 'ANUDIP FOUNDATION ',
+      role: 'Data Analyst Visualization Intern ',
+      description:
+        ' Boosted data-driven decision-making by developing scalable dashboards in Power BI and optimizing metrics visualization by 25%. Utilized Python, SQL, and Excel for insights generation, achieving a 30% improvement in KPI analysis. Designed and executed automated data processing workflows, increasing productivity by 40%. ',
+      active: false,
+    },
+    
   ];
 
   return (
