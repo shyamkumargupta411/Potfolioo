@@ -5,6 +5,7 @@ const Skillset: React.FC = () => {
     technical: [
       'Python',
       'Java',
+      'Django'
       'HTML',
       'CSS',
       'JavaScript',
