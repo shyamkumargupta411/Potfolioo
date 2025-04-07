@@ -23,13 +23,13 @@ const Experience: React.FC = () => {
       company: 'U4RAD Technologies pvt',
       role: 'Software Development Intern ',
       description:
-       ' Working on full-stack development using Django and React, contributing to the design and implementation of scalable web applications. Key responsibilities include:
-        '-Developing RESTful APIs with Django to handle backend logic and database management.
-        '-Building responsive and dynamic user interfaces using React and modern frontend technologies.
-        '-Collaborating with cross-functional teams to enhance application performance and user experience.
-        '-Writing efficient, reusable, and well-documented code following industry best practices.
-        '-Engaging in debugging, testing, and deployment processes to ensure seamless functionality.
-        Excited to enhance my skills in web development, API integration, and software engineering while working on innovative projects.',
+       ' Working on full-stack development using Django and React, contributing to the design and implementation of scalable web applications. Key responsibilities include: ' ,
+        '-Developing RESTful APIs with Django to handle backend logic and database management.' ,
+        '-Building responsive and dynamic user interfaces using React and modern frontend technologies.',
+        '-Collaborating with cross-functional teams to enhance application performance and user experience.',
+        '-Writing efficient, reusable, and well-documented code following industry best practices.',
+        '-Engaging in debugging, testing, and deployment processes to ensure seamless functionality. ',
+        'Excited to enhance my skills in web development, API integration, and software engineering while working on innovative projects.',
       active: false,
     },
     
