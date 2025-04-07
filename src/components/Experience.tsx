@@ -19,11 +19,17 @@ const Experience: React.FC = () => {
       active: false,
     },
     {
-      period: 'July 2024-Aug 2024',
-      company: 'ANUDIP FOUNDATION ',
-      role: 'Data Analyst Visualization Intern ',
+      period: 'Feb 2025 - Present ',
+      company: 'U4RAD Technologies pvt',
+      role: 'Software Development Intern ',
       description:
-        ' Boosted data-driven decision-making by developing scalable dashboards in Power BI and optimizing metrics visualization by 25%. Utilized Python, SQL, and Excel for insights generation, achieving a 30% improvement in KPI analysis. Designed and executed automated data processing workflows, increasing productivity by 40%. ',
+       ' Working on full-stack development using Django and React, contributing to the design and implementation of scalable web applications. Key responsibilities include:
+        '-Developing RESTful APIs with Django to handle backend logic and database management.
+        '-Building responsive and dynamic user interfaces using React and modern frontend technologies.
+        '-Collaborating with cross-functional teams to enhance application performance and user experience.
+        '-Writing efficient, reusable, and well-documented code following industry best practices.
+        '-Engaging in debugging, testing, and deployment processes to ensure seamless functionality.
+        Excited to enhance my skills in web development, API integration, and software engineering while working on innovative projects.',
       active: false,
     },
     
